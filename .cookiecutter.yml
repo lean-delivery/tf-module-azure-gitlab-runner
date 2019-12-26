@@ -1,0 +1,4 @@
+---
+default_context:
+  module_name: azure-gitlab-runner
+  template_version: 0.1
